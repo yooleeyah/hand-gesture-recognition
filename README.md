@@ -12,6 +12,5 @@
 **Метод:** Использована архитектура ResNet, оптимизированная для распознавания жестов, Adam optimizer и cross-entropy loss function.
 
 **Результаты:** На тестовом наборе модель показала высокую точность (recall: 97.70%, F1-мера: 97.71%, precision: 97.87%)
-
-**Технологии:** Python, PyTorch, Scikit-learn.
+**Технологии:** Python (numpy, PyTorch, matplotlib, sklearn)
    
